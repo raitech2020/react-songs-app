@@ -1,3 +1,5 @@
+React app for displaying a list of songs and getting details of a particular song when it is selected.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
